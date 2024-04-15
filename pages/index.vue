@@ -4,5 +4,6 @@
         <TheIntrodue/>
         <TheAbout/>
         <TheWork/>
+        <TheProject/>
     </div>
 </template>
